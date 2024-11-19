@@ -1,0 +1,431 @@
+Country_Code_key	Date of Birth	Marital Status	MailID	Yearly Income	No of Children	Education	Address Line	Date of First Purchase	Age	Customer Key	Customer_F_Name	Customer_L_Name	City	State	State Short Form
+880	21-Sep-82	M	tomzandusky_82@rediffmail.com	1200000	1	Partial High School	"10, place Beaubernard"	29-May-18	39	TZ-33336	Tom	Zandusky	Chittagong	Chittagong	CTG
+880	25-Oct-59	M	heatherkirkland_59@rediffmail.com	804400	2	Partial High School	1318 Pinehurst Court	07-May-21	62	HK-14443	Heather	Kirkland	Chittagong	Chittagong	CTG
+880	26-May-70	M	robwilliams_70@yahoo.com	4240000	2	High School	"20, rue Royale"	02-Aug-21	51	RW-27971	Rob	Williams	Chittagong	Chittagong	CTG
+880	18-May-68	M	donweiss_68@rediffmail.com	804400	0	Partial High School	"33, rue Georges-Clémenceau"	20-Feb-19	53	DW-09243	Don	Weiss	Chittagong	Chittagong	CTG
+880	14-Jul-79	S	carlosmeador_79@yahoo.com	789000	1	Partial High School	4096 San Remo	23-Sep-18	42	CM-08127	Carlos	Meador	Chittagong	Chittagong	CTG
+880	23-Feb-89	S	karenbern_89@yahoo.com	789000	2	Partial College	9405 Curletto Dr.	13-Nov-18	32	KB-17681	Karen	Bern	Chittagong	Chittagong	CTG
+880	25-Nov-56	S	stevenward_56@yahoo.com	675000	0	Partial High School	Am Gallberg 645	17-Feb-21	65	SW-30727	Steven	Ward	Chittagong	Chittagong	CTG
+880	19-Oct-92	M	carolinejumper_92@rediffmail.com	675000	1	High School	Am Kreuz 555	27-Dec-19	29	CJ-06106	Caroline	Jumper	Chittagong	Chittagong	CTG
+880	11-Aug-92	S	frankgastineau_92@yahoo.com	789000	1	Partial College	Brunnenstr 44	22-Nov-20	29	FG-12266	Frank	Gastineau	Chittagong	Chittagong	CTG
+880	05-Feb-62	S	cyrareiten_62@rediffmail.com	4240000	1	Partial College	Krönerweg 92	27-Apr-20	59	CR-06151	Cyra	Reiten	Chittagong	Chittagong	CTG
+880	20-May-91	M	michaelkennedy_91@gmail.com	557000	0	Partial High School	Rotthäuser Weg 100	08-Sep-18	30	MK-21887	Michael	Kennedy	Chittagong	Chittagong	CTG
+880	04-Dec-73	M	dennyjoy_73@rediffmail.com	789000	0	Partial College	Wertheimer Straße 854	30-May-20	48	DJ-09493	Denny	Joy	Chittagong	Chittagong	CTG
+880	30-Jun-55	S	michaelkennedy_55@gmail.com	675000	2	Partial High School	Wolfgangstraße 72	21-Apr-20	66	MK-21868	Michael	Kennedy	Chittagong	Chittagong	CTG
+880	02-Nov-90	M	fredharton_90@gmail.com	557000	1	Partial College	"21, cours Mirabeau"	12-Jun-21	31	FH-12716	Fred	Harton	Chittagong	Chittagong	CTG
+880	19-Jun-59	M	samplecompany_59@gmail.com	3880000	1	Bachelors	1153 Loma Linda	08-Nov-20	62	SC-29116	Sample	Company	Dhaka	Dhaka	DHK
+880	13-Aug-92	S	shirleyschmidt_92@gmail.com	3880000	0	Bachelors	1538 Golden Meadow	23-Mar-19	29	SS-30098	Shirley	Schmidt	Dhaka	Dhaka	DHK
+880	23-Sep-80	S	jillmatthias_80@gmail.com	1200000	2	Bachelors	"16, rue des Grands Champs"	11-Jul-19	41	JM-17403	Jill	Matthias	Dhaka	Dhaka	DHK
+880	09-Jul-55	M	darrenkoutras_55@gmail.com	675000	0	Bachelors	1781 Camino Solano	28-Oct-21	66	DK-09954	Darren	Koutras	Dhaka	Dhaka	DHK
+880	26-Feb-71	S	philipbrown_71@gmail.com	557000	0	Partial College	"19, avenue de la Gare"	18-Sep-21	50	PB-25591	Philip	Brown	Dhaka	Dhaka	DHK
+880	18-Sep-66	S	theahendricks_66@yahoo.com	675000	2	Partial College	1979 Driving Drive	29-Nov-18	55	TH-33471	Thea	Hendricks	Dhaka	Dhaka	DHK
+880	30-Mar-59	M	delfinalatchford_59@gmail.com	1200000	1	High School	"2, rue Pierre-Demoulin"	17-May-19	62	DL-08789	Delfina	Latchford	Dhaka	Dhaka	DHK
+880	02-Apr-71	S	stevenguyen_71@gmail.com	789000	1	High School	2035 Emmons Canyon Lane	27-Jul-19	50	SN-29044	Steve	Nguyen	Dhaka	Dhaka	DHK
+880	11-May-77	S	davebrooks_77@gmail.com	804400	1	Partial High School	277 South Royal Links	03-Sep-21	44	DB-10441	Dave	Brooks	Dhaka	Dhaka	DHK
+880	27-Dec-90	S	barryfranzšsisch_90@gmail.com	3880000	2	Graduate Degree	"2802, boulevard Beau Marchais"	03-Jul-19	31	BF-02902	Barry	Franzšsisch	Dhaka	Dhaka	DHK
+880	29-Jan-86	S	adambellavance_86@gmail.com	557000	0	Partial High School	"29, avenue de la Gare"	09-Nov-19	35	AB-01482	Adam	Bellavance	Dhaka	Dhaka	DHK
+880	13-Dec-77	S	kalycameade_77@yahoo.com	675000	0	High School	3713 Rollingwood Dr.	31-May-21	44	KM-17351	Kalyca	Meade	Dhaka	Dhaka	DHK
+880	12-Jun-88	M	hallieredmond_88@yahoo.com	4240000	0	Partial High School	"44, rue Saint Denis"	28-Dec-18	33	HR-12854	Hallie	Redmond	Dhaka	Dhaka	DHK
+880	26-Sep-77	M	nancylomonaco_77@rediffmail.com	675000	2	High School	4519 Lydia Lane	16-Jul-21	44	NL-22905	Nancy	Lomonaco	Dhaka	Dhaka	DHK
+880	05-Nov-81	M	deanraeno_81@gmail.com	557000	1	Bachelors	4657 Price Lane	08-May-20	40	DE-09442	Deanra	Eno	Dhaka	Dhaka	DHK
+880	18-Sep-54	S	soniacooley_54@gmail.com	1200000	0	High School	"51, rue de la Cavalerie"	20-Jan-19	67	SC-30700	Sonia	Cooley	Dhaka	Dhaka	DHK
+880	15-Mar-62	M	kellylampkin_62@yahoo.com	557000	2	Partial High School	5115 Meadowbrook Court	03-Aug-18	59	KL-18123	Kelly	Lampkin	Dhaka	Dhaka	DHK
+880	04-Aug-75	M	giuliettadortch_75@rediffmail.com	3000000	1	High School	"534, rue des Grands Champs"	17-Mar-20	46	GD-13558	Giulietta	Dortch	Dhaka	Dhaka	DHK
+880	09-Jan-76	S	aaronbergman_76@rediffmail.com	3000000	1	Bachelors	"55, rue de Courtaboeuf"	22-Oct-18	45	AB-00026	Aaron	Bergman	Dhaka	Dhaka	DHK
+880	19-Feb-95	S	arthurprichep_95@rediffmail.com	3000000	0	Graduate Degree	5716 Weatherly Drive	12-Nov-20	26	AP-00867	Arthur	Prichep	Dhaka	Dhaka	DHK
+880	31-Jan-66	M	timbrockman_66@rediffmail.com	1200000	0	High School	"6, rue de Cambrai"	17-Mar-21	55	TB-33556	Tim	Brockman	Dhaka	Dhaka	DHK
+880	13-Dec-60	M	bradthomas_60@yahoo.com	557000	2	Graduate Degree	"6186, place du Tertre"	02-Jun-20	61	BT-03389	Brad	Thomas	Dhaka	Dhaka	DHK
+880	27-May-64	S	genehale_64@gmail.com	675000	1	Partial High School	6543 Jacobsen Street	30-Aug-19	57	GH-13443	Gene	Hale	Dhaka	Dhaka	DHK
+880	06-Mar-91	M	jacko'briant_91@yahoo.com	3000000	0	Bachelors	6594 Bent Tree Lane	16-Jul-18	30	JO-16131	Jack	O'Briant	Dhaka	Dhaka	DHK
+880	13-Feb-89	S	anthonyjacobs_89@yahoo.com	804400	1	Partial College	"76, rue Pierre-Demoulin"	08-Jul-19	32	AJ-02835	Anthony	Jacobs	Dhaka	Dhaka	DHK
+880	18-Jan-65	M	jonisundaresam_65@gmail.com	3000000	2	Graduate Degree	"810, rue des Rosiers"	29-Apr-18	56	JS-16281	Joni	Sundaresam	Dhaka	Dhaka	DHK
+880	20-Nov-75	M	neilfranzšsisch_75@yahoo.com	804400	2	Partial College	8489 Seaview Ave.	02-Apr-20	46	NF-24611	Neil	Franzšsisch	Dhaka	Dhaka	DHK
+880	02-Apr-57	M	duanehuffman_57@gmail.com	557000	1	Partial College	8611 Park Lane Circle	03-May-19	64	DH-10104	Duane	Huffman	Dhaka	Dhaka	DHK
+880	22-Feb-73	S	annepryor_73@rediffmail.com	3000000	1	Partial High School	8614 Lagoon Court	15-Nov-20	48	AP-01462	Anne	Pryor	Dhaka	Dhaka	DHK
+880	12-Jun-81	M	mariabertelson_81@gmail.com	3000000	0	Graduate Degree	9428 Mehaffey Way	01-Sep-19	40	MB-21556	Maria	Bertelson	Dhaka	Dhaka	DHK
+880	15-Apr-63	M	edwardnazzal_63@gmail.com	557000	0	Partial College	9430 Thornhill Place	16-Oct-21	58	EN-11341	Edward	Nazzal	Dhaka	Dhaka	DHK
+880	13-Oct-79	S	paulstevenson_79@rediffmail.com	4240000	1	Partial College	9546 Cardinal Ct.	22-Nov-20	42	PS-26001	Paul	Stevenson	Dhaka	Dhaka	DHK
+880	29-Dec-93	M	paulinechand_93@yahoo.com	3880000	1	High School	973 Broadway Street	20-Aug-21	28	PC-26481	Pauline	Chand	Dhaka	Dhaka	DHK
+880	02-Aug-65	M	jimradford_65@gmail.com	3000000	0	High School	9903 Clearland Circle	10-Apr-20	56	JR-16528	Jim	Radford	Dhaka	Dhaka	DHK
+880	19-Nov-88	S	chucksachs_88@rediffmail.com	789000	1	High School	Alte Landstr 9902	20-Jan-18	33	CS-05899	Chuck	Sachs	Dhaka	Dhaka	DHK
+880	07-Dec-75	M	edwardhooks_75@yahoo.com	789000	1	High School	Attaché de Presse	18-Jan-19	46	EH-11683	Edward	Hooks	Dhaka	Dhaka	DHK
+880	09-Jul-85	M	alejandrosavely_85@rediffmail.com	3880000	0	Graduate Degree	Auf der Krone 992	30-Mar-21	36	AS-00300	Alejandro	Savely	Dhaka	Dhaka	DHK
+880	07-Oct-89	M	juliecreighton_89@yahoo.com	675000	1	Partial College	Buergermeister-ulrich-str 2411	17-Nov-19	32	JC-15505	Julie	Creighton	Dhaka	Dhaka	DHK
+880	24-Dec-83	M	kenheidel_83@gmail.com	675000	2	Partial College	Bundesallee 5511	04-Aug-21	38	KH-18262	Ken	Heidel	Dhaka	Dhaka	DHK
+880	22-Jun-85	S	johnlee_85@rediffmail.com	4240000	0	Graduate Degree	Carlsplatz 43	15-Dec-18	36	JL-16180	John	Lee	Dhaka	Dhaka	DHK
+880	06-Nov-78	M	scottcohen_78@yahoo.com	675000	2	High School	Dunckerstr 48523	03-Mar-19	43	SC-29237	Scott	Cohen	Dhaka	Dhaka	DHK
+880	11-May-61	S	michaelmoore_61@yahoo.com	3000000	2	Partial College	Galeriestr 6266	02-Jul-19	60	MM-22145	Michael	Moore	Dhaka	Dhaka	DHK
+880	04-Dec-83	S	sarahbern_83@rediffmail.com	557000	0	Partial College	Hochstr 8222	01-Mar-18	38	SB-30910	Sarah	Bern	Dhaka	Dhaka	DHK
+880	05-Dec-69	S	peterbÿhler_69@gmail.com	4240000	2	Partial High School	Im Himmelsweg 27	16-Sep-21	52	PB-25865	Peter	BŸhler	Dhaka	Dhaka	DHK
+880	02-Dec-80	M	jamiekunitz_80@gmail.com	557000	2	High School	Kappellweg 242	12-Jan-19	41	JK-17064	Jamie	Kunitz	Dhaka	Dhaka	DHK
+880	27-Oct-73	S	haroldengle_73@gmail.com	3000000	0	Partial High School	Marketplatz 5292	06-Mar-20	48	HE-14564	Harold	Engle	Dhaka	Dhaka	DHK
+880	27-Sep-60	M	victorpreis_60@yahoo.com	789000	1	Partial High School	Marketplatz 5492	25-Sep-21	61	VP-34186	Victor	Preis	Dhaka	Dhaka	DHK
+880	31-Dec-66	S	angelehood_66@gmail.com	3880000	1	Partial High School	Pascalstr 7	19-Nov-19	55	AH-02794	Angele	Hood	Dhaka	Dhaka	DHK
+880	20-Nov-69	M	barrygonzalez_69@gmail.com	804400	0	Partial College	Pascalstr 756	10-Feb-18	52	BG-03511	Barry	Gonzalez	Dhaka	Dhaka	DHK
+880	09-Aug-59	M	timbrockman_59@gmail.com	804400	1	High School	Platz des Landtags 433	17-Nov-18	62	TB-33455	Tim	Brockman	Dhaka	Dhaka	DHK
+880	20-Jan-69	M	annblume_69@yahoo.com	1200000	2	Partial College	Residenz Straße 449	29-Nov-19	52	AB-02253	Ann	Blume	Dhaka	Dhaka	DHK
+880	07-Apr-85	S	khloemiller_85@gmail.com	1200000	2	Partial High School	Wallstr 24	22-Jun-19	36	KM-18774	Khloe	Miller	Dhaka	Dhaka	DHK
+880	06-Oct-93	M	haroldengle_93@rediffmail.com	675000	0	Partial High School	Werftstr 544	08-Jun-20	28	HE-14611	Harold	Engle	Dhaka	Dhaka	DHK
+880	24-Oct-52	S	paulinechand_52@gmail.com	804400	1	Partial High School	Wertheimer Straße 895	23-Feb-21	69	PC-26425	Pauline	Chand	Dhaka	Dhaka	DHK
+880	08-Mar-71	S	bradleynguyen_71@rediffmail.com	557000	0	High School	Winter der Böck 8559	03-Jul-20	50	BN-05070	Bradley	Nguyen	Dhaka	Dhaka	DHK
+880	25-Jan-70	M	charlesmccrossin_70@gmail.com	789000	1	Partial College	Zollhof 6678	18-Sep-19	51	CM-07867	Charles	McCrossin	Dhaka	Dhaka	DHK
+880	10-Feb-79	S	chrismcafee_79@yahoo.com	1200000	0	High School	8965 Rheem Blvd.	10-Jan-20	42	CM-06580	Chris	McAfee	Narsingdi	Dhaka	DHK
+880	08-Nov-95	M	larrytron_95@yahoo.com	3000000	1	Partial College	Hüttenstr 20995	09-Jun-21	26	LT-20212	Larry	Tron	Tongi	Dhaka	DHK
+880	01-Nov-53	M	petetakahito_53@yahoo.com	789000	2	Partial College	Residenz Straße 98	07-Apr-21	68	PT-25888	Pete	Takahito	Tongi	Dhaka	DHK
+880	05-Jan-58	M	deniseleinenbach_58@yahoo.com	675000	2	High School	939 Vista Del Diablo	10-Jan-20	63	DL-09009	Denise	Leinenbach	Rajshahi	Rajshahi	RJH
+880	04-Mar-55	S	petetakahito_55@rediffmail.com	675000	0	High School	Attaché de Presse	12-Sep-19	66	PT-25185	Pete	Takahito	Rajshahi	Rajshahi	RJH
+880	22-May-66	S	nathangelder_66@yahoo.com	1200000	0	Partial High School	Pascalstr 24	17-Jan-19	55	NG-25023	Nathan	Gelder	Rajshahi	Rajshahi	RJH
+880	18-Oct-87	M	johnlucas_87@yahoo.com	789000	0	Partial High School	"4+B347533, place de la République"	10-Aug-20	34	JL-16368	John	Lucas	Sylhet	Sylhet	ZYL
+880	27-Dec-80	M	dariomedina_80@yahoo.com	675000	0	High School	"92, rue Henri Gagnon"	05-Apr-21	41	DM-09631	Dario	Medina	Sylhet	Sylhet	ZYL
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															

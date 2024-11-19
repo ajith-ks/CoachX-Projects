@@ -1,0 +1,81 @@
+Customer Key	Customer_F_Name	Customer_L_Name	City	State	State Short Form	Country_Code_key	Date of Birth	Marital Status	MailID	Yearly Income	No of Children	Education	Address Line	Date of First Purchase	Age
+CC-06345	Clay	Cheatham	Freiburg	Baden-Württemberg	BW	49	21-Jun-70	M	claycheatham_70@rediffmail.com	3880000	0	High School	6820 Willow Pass Dr	02-May-18	51
+CL-05706	Craig	Leslie	Ludwigsburg	Baden-Württemberg	BW	49	29-Apr-95	S	craigleslie_95@yahoo.com	3000000	0	High School	8585 Los Gatos Ct.	28-Jul-18	26
+FW-12419	Fred	Wasserman	Sindelfingen	Baden-Württemberg	BW	49	10-May-56	S	fredwasserman_56@yahoo.com	4240000	2	High School	Wolfgangstraße 62	06-Sep-18	65
+CS-06284	Carlos	Soltero	VillingenSchwenningen	Baden-Württemberg	BW	49	01-Mar-88	M	carlossoltero_88@gmail.com	557000	2	Partial College	2742 Cincerto Circle	28-May-20	33
+TD-32172	Tamara	Dahlen	Bamberg	Bavaria	BY	49	04-May-80	S	tamaradahlen_80@yahoo.com	804400	1	High School	6797 Almondtree Circle	05-May-18	41
+TM-32279	Tony	Molinari	Munich	Bavaria	BY	49	21-Jan-60	M	tonymolinari_60@yahoo.com	675000	1	Partial High School	1315 Union St	04-Jun-18	61
+LH-20914	Lisa	Hazard	Munich	Bavaria	BY	49	23-Apr-70	M	lisahazard_70@yahoo.com	789000	0	Partial College	8831 Versailles Pl.	05-Jul-18	51
+CM-05607	Chuck	Magee	Nuremberg	Bavaria	BY	49	19-Mar-51	M	chuckmagee_51@rediffmail.com	3000000	2	Partial College	Winterfeldtstr 4442	04-Jun-18	70
+CY-06880	Craig	Yedwab	Berlin	Berlin	BE	49	04-Nov-89	S	craigyedwab_89@rediffmail.com	789000	2	Partial College	"2, rue de la Cavalerie"	30-May-19	32
+SS-30420	Sonia	Sunley	Berlin	Berlin	BE	49	10-Mar-62	M	soniasunley_62@yahoo.com	789000	0	Bachelors	5626 Mt. View Drive	07-Dec-20	59
+MC-21043	Matt	Collister	Berlin	Berlin	BE	49	27-Jan-69	S	mattcollister_69@yahoo.com	4240000	0	High School	6027 Lisa Ann Street	08-Jun-20	52
+MM-22707	Michelle	Moray	Berlin	Berlin	BE	49	02-Apr-67	M	michellemoray_67@yahoo.com	1200000	0	Partial College	7333 Landana St.	22-May-20	54
+EB-11844	Ellis	Ballard	Berlin	Berlin	BE	49	06-Apr-84	S	ellisballard_84@yahoo.com	3880000	2	Partial High School	7396 Stratton Circle	23-May-19	37
+NM-24514	Neoma	Murray	Berlin	Berlin	BE	49	08-Jul-58	M	neomamurray_58@gmail.com	3880000	0	Partial College	"80, avenue des Champs-Elysées"	29-Oct-19	63
+AR-02135	Anemone	Ratner	Berlin	Berlin	BE	49	12-Aug-90	M	anemoneratner_90@yahoo.com	4240000	1	Partial College	"951, rue Villedo"	07-Jul-21	31
+NB-24056	Nona	Balk	Berlin	Berlin	BE	49	15-Jan-90	S	nonabalk_90@yahoo.com	1200000	2	Partial College	Zeiter Weg 9922	06-Apr-20	31
+TM-33514	Tony	Molinari	Bremen	Bremen	HH	49	08-Nov-73	S	tonymolinari_73@yahoo.com	789000	0	Graduate Degree	71 Tobi Drive	16-Jan-18	48
+SW-31411	Scott	Williamson	Hamburg	Hamburg	HH	49	04-May-70	M	scottwilliamson_70@rediffmail.com	3880000	1	Partial College	319 Dale Pl.	20-Jul-21	51
+LO-19889	Lori	Olson	Hamburg	Hamburg	HH	49	01-Oct-52	S	loriolson_52@rediffmail.com	804400	0	Graduate Degree	6589 Viewpoint Ct	18-Jun-20	69
+TC-33638	Tony	Chapman	Hamburg	Hamburg	HH	49	27-Feb-71	M	tonychapman_71@rediffmail.com	3000000	1	Partial College	6613 Thornhill Place	06-Aug-20	50
+HZ-13882	Henia	Zydlo	Hamburg	Hamburg	HH	49	01-Jan-89	M	heniazydlo_89@rediffmail.com	804400	0	Partial High School	8577 La Vista Avenue	26-Oct-21	32
+CD-07841	Christina	DeMoss	Hamburg	Hamburg	HH	49	21-Feb-63	S	christinademoss_63@rediffmail.com	4240000	2	Partial High School	Waldstr 21	16-Feb-20	58
+TZ-32602	Tracy	Zic	Darmstadt	Hesse	HE	49	29-Jan-95	M	tracyzic_95@gmail.com	804400	2	Partial High School	3245 Vista Oak Dr.	14-Jan-21	26
+RB-28484	Ross	Baird	Frankfurt	Hesse	HE	49	28-Jul-84	M	rossbaird_84@gmail.com	1200000	2	Partial High School	2036 Bellwood Court	26-Aug-21	37
+TB-33362	Tom	Boeckenhauer	Frankfurt	Hesse	HE	49	31-Oct-85	M	tomboeckenhauer_85@rediffmail.com	1200000	2	Partial College	878 Rancho View Drive	02-Oct-19	36
+DP-09078	Dave	Poirier	Kassel	Hesse	HE	49	26-Mar-58	S	davepoirier_58@rediffmail.com	1200000	0	Partial High School	3578 Courthouse Drive	27-Jul-19	63
+JB-16514	Jennifer	Braxton	Wetzlar	Hesse	HE	49	20-Jun-89	M	jenniferbraxton_89@rediffmail.com	1200000	1	High School	3492 Broadway Street	23-Nov-20	32
+LR-19964	Lisa	Ryan	Wiesbaden	Hesse	HE	49	05-Jan-73	S	lisaryan_73@yahoo.com	1200000	0	High School	Heiderplatz 948	07-Sep-20	48
+HJ-14187	Heather	Jas	Cuxhaven	Lower Saxony	NI	49	14-Sep-80	S	heatherjas_80@yahoo.com	4240000	0	Bachelors	9003 C St.	10-Mar-18	41
+SP-30826	Sibella	Parks	Oldenburg	Lower Saxony	NI	49	25-Sep-64	M	sibellaparks_64@yahoo.com	675000	0	Partial High School	2451 Vista Del Sol	02-Oct-18	57
+CM-07849	Charles	McCrossin	Oldenburg	Lower Saxony	NI	49	19-Jul-52	S	charlesmccrossin_52@yahoo.com	4240000	1	Partial High School	4553 Morello Ave	17-May-20	69
+SC-28923	Sample	Company	Wolfsburg	Lower Saxony	NI	49	03-Aug-57	M	samplecompany_57@gmail.com	3000000	0	High School	422 Quartermaster	14-May-20	64
+SP-30903	Stefania	Perrino	Neubrandenburg	MecklenburgVorpommern	MV	49	08-Oct-91	S	stefaniaperrino_91@gmail.com	557000	2	Partial College	1309 C St.	24-Dec-20	30
+NR-24602	Nick	Radford	Schwerin	MecklenburgVorpommern	MV	49	18-Feb-83	M	nickradford_83@rediffmail.com	1200000	2	Partial College	5636 Barcelona	22-Mar-19	38
+MF-23701	Monica	Federle	Aachen	North RhineWestphalia	NW	49	15-Jun-94	S	monicafederle_94@rediffmail.com	4240000	1	High School	5615 Detroit Ave.	04-Jan-18	27
+DM-09571	Denise	Monton	Bergheim	North RhineWestphalia	NW	49	10-Jul-77	M	denisemonton_77@gmail.com	804400	1	Partial High School	7942 C Mt. Hood	05-Nov-20	44
+BD-03849	Bruce	Degenhardt	Bielefeld	North RhineWestphalia	NW	49	19-Feb-70	M	brucedegenhardt_70@rediffmail.com	675000	1	Bachelors	458 Union St	19-Jan-18	51
+RB-28610	Rob	Beeghly	Bochum	North RhineWestphalia	NW	49	11-Apr-52	S	robbeeghly_52@rediffmail.com	804400	0	Graduate Degree	4882 Darlene Drive	02-Nov-19	69
+DS-09329	David	Smith	Bonn	North RhineWestphalia	NW	49	19-Oct-73	M	davidsmith_73@yahoo.com	3000000	1	High School	"1, rue de Maubeuge"	17-Aug-20	48
+LB-20738	Laurel	Beltran	Bonn	North RhineWestphalia	NW	49	06-Jul-52	M	laurelbeltran_52@rediffmail.com	1200000	1	Bachelors	4428 Jones Rd.	11-Jun-18	69
+ND-24017	Natalie	DeCherney	Bottrop	North RhineWestphalia	NW	49	25-Dec-85	S	nataliedecherney_85@rediffmail.com	789000	1	Graduate Degree	5871 Detroit Ave.	03-Mar-21	36
+JK-15296	Jay	Kimmel	CastropRauxel	North RhineWestphalia	NW	49	28-Oct-86	S	jaykimmel_86@yahoo.com	557000	0	High School	2909 Woodland Dr.	26-Apr-18	35
+RB-27261	Raymond	Buch	Cologne	North RhineWestphalia	NW	49	14-Sep-60	S	raymondbuch_60@rediffmail.com	675000	2	Partial High School	8713 Book Street	31-Jan-20	61
+RB-27694	Richard	Bierner	Dorsten	North RhineWestphalia	NW	49	06-Dec-93	S	richardbierner_93@gmail.com	804400	1	High School	6757 Pamplona Ct.	02-Mar-18	28
+RO-28212	Rose	O'Brian	Dorsten	North RhineWestphalia	NW	49	01-Jan-53	M	roseo'brian_53@rediffmail.com	675000	2	Partial College	9294 Virgina Hills Drive	20-Feb-18	68
+JO-16901	Jas	O'Carroll	Essen	North RhineWestphalia	NW	49	22-Nov-74	M	jaso'carroll_74@gmail.com	3000000	1	Partial High School	3841 Silver Oaks Place	17-Apr-19	47
+BC-04401	Becky	Castell	Gelsenkirchen	North RhineWestphalia	NW	49	07-Jan-69	M	beckycastell_69@rediffmail.com	804400	1	High School	3767 View Dr.	16-Jul-21	52
+EP-11214	Emily	Phan	Gronau	North RhineWestphalia	NW	49	23-Dec-75	S	emilyphan_75@yahoo.com	3880000	0	Partial High School	5749 Esperanza	20-Oct-19	46
+GZ-13398	Gary	Zandusky	Gronau	North RhineWestphalia	NW	49	05-Jun-50	S	garyzandusky_50@rediffmail.com	557000	2	High School	Heidestieg Straße 8664	12-Jan-18	71
+BT-03323	Bobby	Trafton	Gummersbach	North RhineWestphalia	NW	49	06-Jul-88	S	bobbytrafton_88@yahoo.com	557000	0	Partial College	5271 Sierra Road	18-Mar-18	33
+DM-10199	Darrin	Martin	Hagen	North RhineWestphalia	NW	49	13-Jun-53	M	darrinmartin_53@yahoo.com	3880000	1	Partial High School	1527 St. John Lane	07-May-19	68
+SK-27349	Sally	Knutson	Herten	North RhineWestphalia	NW	49	30-Apr-91	S	sallyknutson_91@yahoo.com	804400	0	Partial High School	"88, avenue de l´ Union Centrale"	14-Jul-20	30
+HR-14008	Harold	Ryan	Kerpen	North RhineWestphalia	NW	49	20-Apr-50	S	haroldryan_50@gmail.com	675000	0	Graduate Degree	6441 Via Santa Fe	08-Jul-19	71
+IL-14901	Ivan	Liston	Krefeld	North RhineWestphalia	NW	49	06-Oct-71	M	ivanliston_71@gmail.com	3000000	1	Bachelors	1901 Missing Canyon Court	04-Feb-20	50
+FM-11432	Filia	McAdams	Krefeld	North RhineWestphalia	NW	49	22-Jun-86	S	filiamcadams_86@rediffmail.com	4240000	0	Partial High School	Herzogstr 3998	14-Jun-21	35
+BG-03686	Barry	Gonzalez	Leverkusen	North RhineWestphalia	NW	49	07-Dec-81	S	barrygonzalez_81@yahoo.com	557000	1	Partial High School	9191 Camelback Ct.	31-May-18	40
+TB-32216	Thomas	Boland	Lippstadt	North RhineWestphalia	NW	49	28-Nov-54	M	thomasboland_54@rediffmail.com	4240000	0	High School	4877 Zona Rosa	29-Oct-20	67
+BP-05275	Bart	Pistole	Moers	North RhineWestphalia	NW	49	16-Jan-88	S	bartpistole_88@rediffmail.com	1200000	0	High School	5126 La Corte Bonita	15-Mar-20	33
+RF-28389	Randy	Ferguson	Oberhausen	North RhineWestphalia	NW	49	18-Feb-76	M	randyferguson_76@yahoo.com	557000	1	Partial College	7657 H St.	13-Aug-21	45
+SC-30651	Sonia	Cooley	Oberhausen	North RhineWestphalia	NW	49	07-Feb-71	S	soniacooley_71@yahoo.com	789000	1	High School	"78, rue de l´Esplanade"	06-Feb-18	50
+AS-00510	Adam	Shillingsburg	Paderborn	North RhineWestphalia	NW	49	04-Jun-58	S	adamshillingsburg_58@yahoo.com	1200000	0	Partial College	4070 Lacorso Drive	07-Jul-20	63
+DK-06266	Damala	Kotsonis	Solingen	North RhineWestphalia	NW	49	13-May-59	M	damalakotsonis_59@rediffmail.com	1200000	0	Partial College	8589 Shady Ln.	17-Jul-19	62
+DF-09505	David	Flashing	Viersen	North RhineWestphalia	NW	49	22-Mar-87	S	davidflashing_87@rediffmail.com	557000	2	Bachelors	4070 Lacorso Drive	17-Sep-20	34
+TB-33293	Thomas	Brumley	Viersen	North RhineWestphalia	NW	49	16-Jun-54	S	thomasbrumley_54@rediffmail.com	1200000	1	Graduate Degree	8831 Versailles Pl.	04-May-20	67
+SG-31400	Sheri	Gordon	Viersen	North RhineWestphalia	NW	49	24-Feb-80	M	sherigordon_80@gmail.com	1200000	1	High School	Am Gallberg 2667	04-Jan-20	41
+EH-11023	Erica	Hernandez	Wuppertal	North RhineWestphalia	NW	49	21-Oct-59	M	ericahernandez_59@gmail.com	804400	0	Partial College	7182 Olive Hill	17-Aug-20	62
+JE-34453	Joel	Eaton	Kaiserslautern	RhinelandPalatinate	RP	49	10-Apr-83	M	joeleaton_83@yahoo.com	557000	1	Partial High School	151 Buchanan Ct	20-Aug-19	38
+XP-33959	Xylona	Preis	Mainz	RhinelandPalatinate	RP	49	06-Mar-84	S	xylonapreis_84@yahoo.com	3000000	2	Partial College	Auf Der Steige 100	16-Sep-19	37
+SV-29429	Stewart	Visinsky	Neunkirchen	Saarland	SL	49	21-May-60	M	stewartvisinsky_60@gmail.com	675000	0	Partial High School	5157 Maywood Lane	12-Apr-20	61
+EG-11125	Emily	Grady	Dresden	Saxony	SN	49	02-Jan-58	M	emilygrady_58@rediffmail.com	3880000	2	Graduate Degree	4744 Mary Dr.	12-May-20	63
+GM-13201	Greg	Maxwell	Dresden	Saxony	SN	49	26-Jan-54	S	gregmaxwell_54@gmail.com	557000	0	Partial College	6141 Race Road	29-Mar-21	67
+DK-09838	Dennis	Kane	Dresden	Saxony	SN	49	13-Aug-92	M	denniskane_92@yahoo.com	789000	1	Bachelors	6979 Harvard Drive	13-Jan-20	29
+RB-28660	Roger	Barcio	Leipzig	Saxony	SN	49	26-May-66	S	rogerbarcio_66@rediffmail.com	4240000	0	High School	282 Iowa Drive	19-Sep-18	55
+BV-03605	Benjamin	Venier	Leipzig	Saxony	SN	49	26-Nov-93	S	benjaminvenier_93@yahoo.com	3880000	2	Partial High School	869 Welle Road	20-Mar-18	28
+SH-29839	Stefanie	Holloman	Zwickau	Saxony	SN	49	25-Dec-64	M	stefanieholloman_64@gmail.com	4240000	2	High School	8772 Rock Creek Way	07-Jun-18	57
+SR-29970	Sharelle	Roach	Magdeburg	SaxonyAnhalt	ST	49	07-Dec-50	S	sharelleroach_50@yahoo.com	675000	2	High School	"33, rue du Puits Dixme"	08-Oct-19	71
+CS-05676	Cindy	Stewart	Magdeburg	SaxonyAnhalt	ST	49	13-Dec-93	S	cindystewart_93@rediffmail.com	557000	1	Partial College	5302 Argonne Drive	18-Feb-19	28
+BF-05132	Beth	Fritzler	Magdeburg	SaxonyAnhalt	ST	49	24-Feb-91	M	bethfritzler_91@rediffmail.com	3880000	2	Partial High School	"71, avenue de la Gare"	02-Mar-18	30
+SA-29308	Sue	Ann	Flensburg	SchleswigHolstein	SH	49	15-Aug-63	S	sueann_63@rediffmail.com	789000	1	Partial High School	2023 Wood Ranch Circle	12-May-20	58
+HG-14053	Hunter	Glantz	Kiel	SchleswigHolstein	SH	49	30-May-85	M	hunterglantz_85@rediffmail.com	3880000	1	High School	4364 Viera Avenue	15-Sep-18	36

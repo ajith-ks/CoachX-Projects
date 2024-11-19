@@ -1,0 +1,431 @@
+Customer Key	Customer_F_Name	Customer_L_Name	City	State	State Short Form	Country_Code_key	Date of Birth	Marital Status	Address Line	Date of First Purchase	Age	MailID	Yearly Income	No of Children	Education
+MM-22265	Michelle	Moray	Anqing	Anhui	AH	86	26-Apr-92	M	1504 Conifer Court	16-May-19	29	michellemoray_92@gmail.com	3000000	1	High School
+NC-23762	Nat	Carroll	Chaohu	Anhui	AH	86	25-Feb-68	S	8510 G St.	25-Jun-19	53	natcarroll_68@rediffmail.com	4240000	1	Partial College
+PG-26221	Paul	Gonzalez	Huaibei	Anhui	AH	86	23-Sep-83	S	6968 Wren Ave.	29-May-21	38	paulgonzalez_83@rediffmail.com	1200000	2	Partial College
+DB-10401	Daniel	Byrd	Huangshan	Anhui	AH	86	23-Mar-69	S	6165 Silverwood Drive	08-Oct-21	52	danielbyrd_69@rediffmail.com	3000000	0	High School
+AH-02792	Angele	Hood	Suzhou	Anhui	AH	86	23-Apr-57	M	244 Willow Pass Road	14-Sep-19	64	angelehood_57@gmail.com	1200000	2	Partial College
+HJ-14201	Heather	Jas	Beijing	Beijing	BJ	86	02-Jan-70	M	"12, avenue Foch"	12-Apr-19	51	heatherjas_70@rediffmail.com	3880000	1	Partial College
+SS-29890	Shahid	Shariari	Beijing	Beijing	BJ	86	31-Dec-85	S	301 Sandy Ln.	17-Jan-20	36	shahidshariari_85@yahoo.com	789000	0	Partial High School
+AH-00721	Anna	HŠberlin	Beijing	Beijing	BJ	86	20-May-65	M	"312, rue Villedo"	24-Dec-18	56	annahšberlin_65@gmail.com	675000	2	High School
+JH-15399	John	Huston	Beijing	Beijing	BJ	86	26-Aug-68	S	Hellweg 4534	04-Oct-18	53	johnhuston_68@yahoo.com	804400	1	Partial High School
+JF-16556	Jay	Fein	Chongqing	Chongqing	CQ	86	17-May-88	S	1113 Ready Road	26-Dec-20	33	jayfein_88@rediffmail.com	3000000	2	Partial College
+KF-18144	Karen	Ferguson	Chongqing	Chongqing	CQ	86	14-Jan-57	S	7191 Margo Drive	03-Jul-18	64	karenferguson_57@yahoo.com	675000	1	Partial High School
+LC-20154	Liz	Carlisle	Luoyang	Fujian	FJ	86	10-Aug-73	S	4760 Brown Dr.	09-Mar-21	48	lizcarlisle_73@yahoo.com	4240000	1	Partial College
+RE-28542	Richard	Eichhorn	Sanming	Fujian	FJ	86	11-Sep-84	M	Conesweg 80	23-Jan-20	37	richardeichhorn_84@rediffmail.com	789000	2	Bachelors
+DC-07522	Dan	Campbell	Foshan	Guangdong	GD	86	26-Jan-68	M	Kampstr 9859	13-Jul-21	53	dancampbell_68@gmail.com	804400	0	Partial High School
+DP-08964	David	Philippe	Guangzhou	Guangdong	GD	86	20-Dec-69	S	"50, avenue de Villiers"	08-Oct-21	52	davidphilippe_69@rediffmail.com	557000	2	High School
+JL-16332	John	Lucas	Guangzhou	Guangdong	GD	86	10-May-87	M	"57bis, boulevard du Montparnasse"	01-Mar-19	34	johnlucas_87@gmail.com	675000	1	Partial High School
+JF-16175	Jamie	Frazer	Guangzhou	Guangdong	GD	86	03-Jul-88	M	Am Karlshof 368	20-Oct-18	33	jamiefrazer_88@gmail.com	557000	1	Partial College
+AG-01223	Alex	Grayson	Jieyang	Guangdong	GD	86	11-Sep-68	S	Westheimer Straße 9601	06-Jul-18	53	alexgrayson_68@yahoo.com	3880000	2	Partial High School
+JF-16791	Jay	Fein	Luoyang	Guangdong	GD	86	03-Mar-76	S	"1, place Beaubernard"	12-Mar-18	45	jayfein_76@rediffmail.com	3880000	0	Partial High School
+HK-14435	Heather	Kirkland	Luoyang	Guangdong	GD	86	03-Sep-57	M	2599 Vine Hill Way	15-Dec-20	64	heatherkirkland_57@rediffmail.com	804400	0	Graduate Degree
+JC-16124	Jasper	Cacioppo	Luoyang	Guangdong	GD	86	29-Jul-93	M	"34334, rue Jean Mermoz"	26-Apr-20	28	jaspercacioppo_93@yahoo.com	4240000	2	Partial College
+SU-29965	Stephanie	Ulpright	Luoyang	Guangdong	GD	86	07-Sep-82	M	7348 Indianhead Way	09-Jul-20	39	stephanieulpright_82@gmail.com	1200000	1	Partial College
+DK-09706	Dana	Kaydos	Meizhou	Guangdong	GD	86	26-Jun-52	S	3421 Gehringer Drive	14-Apr-20	69	danakaydos_52@rediffmail.com	557000	0	High School
+CC-07386	Craig	Carreira	Shantou	Guangdong	GD	86	03-May-74	M	5843 Mountaire Pkwy.	05-Nov-20	47	craigcarreira_74@rediffmail.com	3000000	2	Graduate Degree
+BP-03608	Barry	Pond	Shantou	Guangdong	GD	86	17-Aug-74	S	"70, place du Tertre"	13-Jan-18	47	barrypond_74@rediffmail.com	4240000	1	Partial College
+SB-30104	Sarah	Bern	Shantou	Guangdong	GD	86	13-Mar-67	M	9152 Rogers Ave.	31-May-20	54	sarahbern_67@yahoo.com	1200000	1	Partial High School
+NB-24147	Nona	Balk	Shantou	Guangdong	GD	86	27-Oct-61	M	Curieweg 577	01-Sep-18	60	nonabalk_61@gmail.com	557000	2	High School
+EN-11313	Edward	Nazzal	Shenzhen	Guangdong	GD	86	06-Oct-94	S	1068 N Sweetbriar Court	21-Aug-19	27	edwardnazzal_94@rediffmail.com	675000	0	High School
+SJ-28783	Sarah	Jordon	Shenzhen	Guangdong	GD	86	07-Jan-71	S	8206 H Street	24-Sep-21	50	sarahjordon_71@rediffmail.com	675000	1	High School
+SG-29141	Speros	Goranitis	Zhuhai	Guangdong	GD	86	22-Aug-70	M	7081 Willow Pass Road	06-Oct-21	51	sperosgoranitis_70@rediffmail.com	1200000	2	Partial College
+DK-09800	Dennis	Kane	Zhuhai	Guangdong	GD	86	28-Oct-63	S	Alderweg 37	26-Mar-21	58	denniskane_63@gmail.com	789000	2	Partial College
+MK-21465	Mike	Kennedy	Nanning	Guangxi	GX	86	03-Jan-83	S	Räuscherweg 6875	18-Jul-19	38	mikekennedy_83@rediffmail.com	1200000	0	Partial College
+BT-04776	Bill	Tyler	Langfang	Hebei	HE	86	18-Jan-54	S	"280, avenue de la Gare"	14-Dec-19	67	billtyler_54@yahoo.com	3880000	1	Partial College
+JB-15438	Joni	Blumstein	Tangshan	Hebei	HE	86	21-Nov-92	M	4581 Coggins Drive	11-Jul-20	29	joniblumstein_92@gmail.com	4240000	2	Partial High School
+MM-22036	Michael	Moore	Harbin	Heilongjiang	HL	86	17-Nov-78	S	Buergermeister-ulrich-str 123	16-May-18	43	michaelmoore_78@rediffmail.com	675000	0	High School
+MH-22663	Maya	Herman	Jixi	Heilongjiang	HL	86	30-Dec-57	M	Brunnenstr 6466	30-Aug-19	64	mayaherman_57@rediffmail.com	3880000	2	Partial High School
+RB-28685	Roger	Barcio	Qitaihe	Heilongjiang	HL	86	14-Feb-79	S	Karl Liebknecht str 399	18-Apr-20	42	rogerbarcio_79@rediffmail.com	3880000	2	Partial High School
+LS-20461	Linda	Southworth	Luohe	Henan	HA	86	25-Jun-70	S	"54, boulevard Tremblay"	27-Dec-19	51	lindasouthworth_70@yahoo.com	1200000	2	Partial College
+CA-07421	Cynthia	Arntzen	Zhengzhou	Henan	HA	86	22-Jun-68	S	"111, rue des Pyrenees"	16-Mar-20	53	cynthiaarntzen_68@gmail.com	1200000	1	Bachelors
+LO-20902	Lori	Olson	Xinzhou	Hubei	HB	86	12-Sep-74	M	887 Redwood Road	12-Aug-21	47	loriolson_74@gmail.com	675000	0	Partial High School
+SA-31250	Sue	Ann	Changsha	Hunan	HA	86	30-Jun-69	S	3598 Teakwood Drive	12-Dec-19	52	sueann_69@rediffmail.com	1200000	0	High School
+DJ-10581	Don	Jones	Xiangtan	Hunan	HA	86	24-Dec-94	M	Alte Landstr 199	22-Feb-20	27	donjones_94@gmail.com	4240000	0	High School
+MC-23580	Mick	Crebagga	Yueyang	Hunan	HA	86	12-May-53	M	9064 Silverado Dr.	04-Feb-21	68	mickcrebagga_53@yahoo.com	557000	2	Bachelors
+LH-19844	Lena	Hernandez	Changzhou	Jiangsu	JS	86	26-Nov-91	S	Am Gallberg 6726	12-Oct-19	30	lenahernandez_91@rediffmail.com	3000000	0	Partial High School
+AP-01514	Anne	Pryor	Huaiyin	Jiangsu	JS	86	22-Oct-74	M	2893 Vera	21-Jun-20	47	annepryor_74@rediffmail.com	1200000	1	Partial High School
+BT-04842	Bill	Tyler	Yancheng	Jiangsu	JS	86	21-Apr-55	M	9759 Dover Way	14-Jan-20	66	billtyler_55@yahoo.com	789000	2	Partial College
+CM-07806	Christopher	Martinez	Yancheng	Jiangsu	JS	86	11-Aug-66	M	Kalkweg 900	30-Mar-20	55	christophermartinez_66@gmail.com	4240000	2	Graduate Degree
+AG-01268	Andy	Gerbode	Nanchang	Jiangxi	JX	86	20-Nov-59	M	"872, rue Mazagran"	19-Nov-19	62	andygerbode_59@yahoo.com	1200000	2	Bachelors
+BM-05263	Becky	Martin	Changchun	Jilin	JL	86	07-Sep-51	M	3393 Alpha Way	21-Dec-18	70	beckymartin_51@gmail.com	3000000	0	High School
+MM-22143	Michael	Moore	Jiutai	Jilin	JL	86	23-Dec-63	M	9407 StandingView Dr. Ave	19-Feb-18	58	michaelmoore_63@rediffmail.com	3000000	2	Partial High School
+LR-20155	Lena	Radford	Xi'an	Shaanxi	SN	86	21-Nov-88	M	8051 Reality Dr.	23-Jan-18	33	lenaradford_88@rediffmail.com	3000000	0	Partial High School
+MC-21242	Matthew	Clasen	Jinan	Shandong	SD	86	02-Dec-86	M	5566 Banyan Circle	11-Oct-18	35	matthewclasen_86@gmail.com	557000	0	Graduate Degree
+CY-06831	Craig	Yedwab	Liaocheng	Shandong	SD	86	11-Jun-78	S	"40, rue Royale"	24-Jan-18	43	craigyedwab_78@rediffmail.com	1200000	0	High School
+CW-06466	Carl	Weiss	Qingdao	Shandong	SD	86	05-Jan-92	S	6099 Esperanza Dr	17-Nov-20	29	carlweiss_92@rediffmail.com	4240000	2	Partial College
+TC-30344	Tamara	Chand	Weifang	Shandong	SD	86	01-Feb-62	M	9099 Second Ave.	15-Aug-20	59	tamarachand_62@gmail.com	557000	0	High School
+KB-17724	Karen	Bern	Xintai	Shandong	SD	86	18-May-85	S	3487 Hill Dr.	23-Sep-18	36	karenbern_85@gmail.com	804400	1	High School
+ZC-34385	Zuschuss	Carroll	Shanghai	Shanghai	SH	86	08-Nov-88	M	Am Kreuz 444	16-Jul-20	33	zuschusscarroll_88@yahoo.com	3000000	1	Graduate Degree
+FH-12729	Fred	Harton	Shanghai	Shanghai	SH	86	26-Mar-51	S	Attaché de Presse	09-Feb-19	70	fredharton_51@gmail.com	3000000	1	High School
+JK-16618	Julie	Kriz	Yuci	Shanxi	SX	86	09-Jun-81	M	5613 East Altarinda Drive	04-Feb-20	40	juliekriz_81@yahoo.com	789000	2	Bachelors
+TH-33271	Thea	Hendricks	Chengdu	Sichuan	SC	86	04-Dec-84	M	"211bis, rue des Peupliers"	21-Jan-21	37	theahendricks_84@rediffmail.com	4240000	2	High School
+GM-13767	Gene	McClure	Chengdu	Sichuan	SC	86	08-Feb-53	M	"4195, rue Léo Delibes"	08-Nov-18	68	genemcclure_53@gmail.com	4240000	1	Partial College
+SS-29536	Saphhira	Shifley	Chengdu	Sichuan	SC	86	02-Nov-79	S	Charlottenstr 123	23-Feb-19	42	saphhirashifley_79@rediffmail.com	675000	2	Graduate Degree
+FH-12300	Fred	Hopkins	Mianyang	Sichuan	SC	86	18-Sep-62	S	Auf dem Ufer 164	13-Oct-20	59	fredhopkins_62@gmail.com	789000	1	Partial College
+CL-07805	Carl	Ludwig	Xichang	Sichuan	SC	86	17-Sep-88	M	2899 Cimarron Drive	13-Nov-20	33	carlludwig_88@gmail.com	4240000	2	Bachelors
+SC-30585	Steve	Carroll	Tianjin	Tianjin	TJ	86	21-Sep-69	S	"34, rue Lauriston"	09-Jan-20	52	stevecarroll_69@rediffmail.com	789000	1	High School
+BS-02977	Bryan	Spruell	Tianjin	Tianjin	TJ	86	07-Aug-79	S	5043 Minert Rd.	16-May-19	42	bryanspruell_79@rediffmail.com	675000	1	Partial High School
+NM-24152	Nathan	Mautz	Kaiyuan	Yunnan	YN	86	13-Oct-71	M	Karl Liebknecht str 577	16-Nov-20	50	nathanmautz_71@gmail.com	3000000	1	Bachelors
+PB-26154	Phillip	Breyer	Hangzhou	Zhejiang	ZJ	86	26-Dec-59	S	"22, rue de la Cavalerie"	21-Feb-21	62	phillipbreyer_59@gmail.com	3880000	2	High School
+SA-29078	Sue	Ann	Ningbo	Zhejiang	ZJ	86	13-Aug-83	M	591 Merriewood Drive	30-Aug-19	38	sueann_83@yahoo.com	1200000	0	Partial High School
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															

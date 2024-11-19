@@ -1,0 +1,431 @@
+Customer Key	Customer_F_Name	Customer_L_Name	Date of Birth	Marital Status	MailID	Yearly Income	No of Children	Education	Address Line	Date of First Purchase	Age	City	State	State Short Form	Country_Code_key
+AC-00254	Anna	Chung	19-Nov-53	M	annachung_53@gmail.com	3880000	1	Partial College	6257 Jennifer Way	13-Jun-21	68	Vijayawada	Andhra Pradesh	AP	91
+BP-02928	Becky	Pak	22-Dec-79	S	beckypak_79@gmail.com	3880000	1	Partial High School	7906 Star Tree Court	19-Sep-18	42	Vijayawada	Andhra Pradesh	AP	91
+MB-22874	Mick	Brown	30-Aug-78	S	mickbrown_78@rediffmail.com	675000	1	Bachelors	4434 Yosemite Circle	17-Sep-19	43	Visakhapatnam	Andhra Pradesh	AP	91
+MF-21227	Maureen	Fritzler	12-Jan-85	M	maureenfritzler_85@gmail.com	1200000	2	Partial High School	4621 Candelero Dr.	09-Jun-21	36	Visakhapatnam	Andhra Pradesh	AP	91
+DN-08730	Duane	Noonan	28-Jan-64	S	duanenoonan_64@rediffmail.com	4240000	0	High School	7640 First Ave.	25-Jul-18	57	Visakhapatnam	Andhra Pradesh	AP	91
+KL-18493	Ken	Lonsdale	15-Nov-65	S	kenlonsdale_65@gmail.com	789000	1	High School	9941 Graham Ave.	12-Jun-21	56	Guwahati	Assam	AS	91
+BG-03478	Barry	Gonzalez	19-Sep-85	M	barrygonzalez_85@yahoo.com	4240000	1	Partial College	125 Keller Ridge	05-Feb-20	36	Aurangabad	Bihar	BR	91
+RB-28490	Ross	Baird	22-Jan-64	M	rossbaird_64@gmail.com	4240000	0	Partial High School	1562 Black Walnut	15-Oct-18	57	Aurangabad	Bihar	BR	91
+TH-31940	Tracy	Hopkins	18-Oct-58	S	tracyhopkins_58@rediffmail.com	557000	0	Partial College	5203 Foothill Way	04-Apr-18	63	Bihar Sharif	Bihar	BR	91
+BD-04173	Bradley	Drucker	30-Oct-56	S	bradleydrucker_56@yahoo.com	4240000	1	Partial High School	4601 San Ramon Road	06-Oct-18	65	Darbhanga	Bihar	BR	91
+NW-24176	Natalie	Webber	24-Feb-95	S	nataliewebber_95@yahoo.com	675000	0	Partial High School	1867 Seville	30-Jun-19	26	Patna	Bihar	BR	91
+DR-08778	Dan	Reichenbach	18-Aug-67	M	danreichenbach_67@rediffmail.com	789000	0	Partial High School	9855 Norse Ct.	25-May-20	54	Korba	Chhattisgarh	CG	91
+AS-00498	Adrian	Shami	09-Nov-52	S	adrianshami_52@yahoo.com	557000	1	Partial College	197 Adobe Dr	09-Jul-21	69	Delhi	Delhi	DL	91
+JM-17421	Jill	Matthias	02-Apr-90	S	jillmatthias_90@yahoo.com	3880000	2	High School	4628 Mountain View Place	17-Mar-18	31	Delhi	Delhi	DL	91
+TB-31832	Trudy	Brown	11-Nov-64	M	trudybrown_64@gmail.com	3880000	0	Partial High School	8241 San Jose Drive	22-Feb-19	57	Delhi	Delhi	DL	91
+MD-23411	Michael	Dominguez	26-Dec-59	S	michaeldominguez_59@yahoo.com	3000000	1	Graduate Degree	3435 San Simeon	24-Sep-18	62	Surat	Gujarat	GJ	91
+SV-30458	Seth	Vernon	23-Apr-60	M	sethvernon_60@gmail.com	4240000	2	High School	4041 Jam Way	13-Mar-21	61	Surat	Gujarat	GJ	91
+AS-01587	Alan	Schoenberger	15-Dec-91	M	alanschoenberger_91@gmail.com	789000	0	High School	5203 Foothill Way	14-Jul-21	30	Gorakhpur	Haryana	HR	91
+PB-25546	Philip	Brown	28-Feb-52	M	philipbrown_52@yahoo.com	675000	0	Partial College	3920 Valley Run	02-May-21	69	Srinagar	Jammu and Kashmir	JK	91
+NW-24243	Natalie	Webber	16-Sep-77	S	nataliewebber_77@rediffmail.com	804400	2	Bachelors	6510 Hacienda Drive	13-Apr-21	44	Srinagar	Jammu and Kashmir	JK	91
+CR-06245	Cyra	Reiten	08-Aug-75	S	cyrareiten_75@gmail.com	557000	1	Bachelors	9199 Park Glenn	18-Jul-19	46	Srinagar	Jammu and Kashmir	JK	91
+AB-01576	Alan	Barnes	03-Oct-76	S	alanbarnes_76@yahoo.com	1200000	1	Partial High School	5587 Esperanza	14-Oct-20	45	Jamshedpur	Jharkhand	JH	91
+LS-20654	Lycoris	Saunders	07-Jun-92	M	lycorissaunders_92@gmail.com	557000	1	Partial High School	8817 Cynthia Drive	22-May-20	29	Ranchi	Jharkhand	JH	91
+IM-14382	Ionia	McGrath	07-Jan-86	M	ioniamcgrath_86@rediffmail.com	789000	2	Partial High School	3616 Gonzalez Court	13-Apr-18	35	Bangalore	Karnataka	KA	91
+JB-15482	Joni	Blumstein	27-Oct-53	S	joniblumstein_53@rediffmail.com	4240000	0	Partial College	4304 Hieber Drive	14-Oct-19	68	Bangalore	Karnataka	KA	91
+JP-15983	Jeremy	Pistek	16-Aug-79	M	jeremypistek_79@yahoo.com	789000	0	Partial High School	4427 Langford Court	22-Apr-18	42	Bangalore	Karnataka	KA	91
+CY-07473	Craig	Yedwab	18-Nov-78	M	craigyedwab_78@gmail.com	675000	1	Partial High School	5855 W. Cypress Road	08-Apr-19	43	Bangalore	Karnataka	KA	91
+AR-00119	Allen	Rosenblatt	25-Sep-92	M	allenrosenblatt_92@yahoo.com	789000	1	Partial High School	6468 Gatewood Court	11-Jun-19	29	Bijapur	Karnataka	KA	91
+CA-06938	Carol	Adams	12-Oct-82	M	caroladams_82@gmail.com	3880000	0	High School	9111 Almondwood Drive	28-Oct-19	39	Bijapur	Karnataka	KA	91
+TA-31685	Tom	Ashbrook	05-Jun-65	M	tomashbrook_65@gmail.com	675000	2	Partial College	3149 Blue Circle	24-Jun-19	56	Mangalore	Karnataka	KA	91
+ON-24696	Odella	Nelson	10-Jan-54	M	odellanelson_54@yahoo.com	4240000	1	High School	224 Terrace Drive	04-Jan-18	67	Kollam	Kerala	KL	91
+DK-08090	Damala	Kotsonis	22-Nov-85	S	damalakotsonis_85@yahoo.com	804400	0	Graduate Degree	8934 Lacanda	07-Jun-21	36	Kozhikode	Kerala	KL	91
+SU-30710	Stephanie	Ulpright	03-Sep-52	S	stephanieulpright_52@gmail.com	3880000	0	High School	163 St. John Lane	05-Aug-19	69	Thiruvananthapuram	Kerala	KL	91
+JD-15123	John	Dryer	14-Jul-50	M	johndryer_50@yahoo.com	4240000	0	Bachelors	3143 N. Main	18-Sep-19	71	Thiruvananthapuram	Kerala	KL	91
+PT-25924	Pete	Takahito	27-Apr-65	S	petetakahito_65@gmail.com	557000	1	Partial High School	3395 Farm Bureau Rd	04-Sep-20	56	Thiruvananthapuram	Kerala	KL	91
+BT-04098	Brian	Thompson	10-Apr-78	M	brianthompson_78@yahoo.com	804400	0	Partial College	7855 Waterhigh Street	19-Apr-18	43	Thiruvananthapuram	Kerala	KL	91
+BF-03534	Barry	Franz	20-Jan-75	M	barryfranz_75@yahoo.com	4240000	1	High School	609 Power Ave.	28-Dec-18	46	Bhopal	Madhya Pradesh	MP	91
+DL-09014	Denise	Leinenbach	24-Apr-68	S	deniseleinenbach_68@rediffmail.com	675000	2	Graduate Degree	30 Rolling Green Circle	01-Aug-18	53	Jabalpur	Madhya Pradesh	MP	91
+RH-27196	Rick	Hansen	13-Mar-78	M	rickhansen_78@rediffmail.com	789000	2	High School	"376, rue de Terre Neuve"	06-Mar-21	43	Ratlam	Madhya Pradesh	MP	91
+TB-33106	Thomas	Brumley	26-Feb-72	M	thomasbrumley_72@yahoo.com	1200000	2	High School	4911 Peachwillow Lane	04-Aug-21	49	Ujjain	Madhya Pradesh	MP	91
+SE-29867	Sanjit	Engle	10-Jul-53	S	sanjitengle_53@gmail.com	3000000	1	Partial High School	9391 80th St	09-Jan-21	68	Akola	Maharashtra	MH	91
+TP-32180	Tracy	Poddar	02-Jan-57	M	tracypoddar_57@gmail.com	3000000	2	Partial College	4101 Buckthorn Court	16-Apr-20	64	Bhiwandi	Maharashtra	MH	91
+AW-00899	Arthur	Wiediger	19-Apr-91	S	arthurwiediger_91@rediffmail.com	789000	2	Partial College	"1020, quai de Grenelle"	20-Sep-21	30	Durgapur	Maharashtra	MH	91
+BM-02890	Brendan	Murry	26-Jul-66	M	brendanmurry_66@rediffmail.com	675000	0	Partial College	Rt. 470 Box A	10-Jul-20	55	Durgapur	Maharashtra	MH	91
+TS-33674	Troy	Staebel	30-Apr-74	M	troystaebel_74@rediffmail.com	675000	2	Partial College	"75, quai de Grenelle"	17-Oct-21	47	Ichalkaranji	Maharashtra	MH	91
+RP-27228	Resi	Pšlking	22-Oct-67	M	resipšlking_67@yahoo.com	789000	2	Bachelors	4764 Gatter Court	09-Jul-18	54	Kalyan	Maharashtra	MH	91
+RS-27281	Roy	Skaria	21-Jan-85	S	royskaria_85@gmail.com	1200000	2	High School	274 Diane Ct	31-Jan-18	36	Malegaon	Maharashtra	MH	91
+TT-33078	Tonja	Turnell	20-Sep-91	M	tonjaturnell_91@gmail.com	4240000	1	Bachelors	5870 Matheson Road	17-Mar-18	30	Malegaon	Maharashtra	MH	91
+HP-13920	Harold	Pawlan	30-Nov-90	S	haroldpawlan_90@yahoo.com	3880000	2	Partial College	"33, allée des Princes"	05-Jul-19	31	Mumbai	Maharashtra	MH	91
+ZD-34372	Zuschuss	Donatelli	08-Dec-71	M	zuschussdonatelli_71@rediffmail.com	557000	0	Partial College	6369 Condor Place	02-Oct-19	50	Mumbai	Maharashtra	MH	91
+FM-11381	Filia	McAdams	25-Oct-88	M	filiamcadams_88@gmail.com	1200000	2	Partial College	6559 Via Rerrari	18-Jun-21	33	Mumbai	Maharashtra	MH	91
+DB-09375	Deborah	Brumfield	23-Jul-61	M	deborahbrumfield_61@yahoo.com	804400	0	High School	6920 Brook Hollow Ct.	20-Feb-19	60	Mumbai	Maharashtra	MH	91
+SU-29955	Stephanie	Ulpright	13-Apr-75	M	stephanieulpright_75@yahoo.com	4240000	0	High School	8354 Sugar Valley Blv.	06-Feb-21	46	Mumbai	Maharashtra	MH	91
+MA-23158	Michelle	Arnett	28-Oct-60	S	michellearnett_60@yahoo.com	789000	0	High School	8831 San Gabriel Dr.	07-Mar-19	61	Mumbai	Maharashtra	MH	91
+MO-22911	Michael	Oakman	19-Aug-63	S	michaeloakman_63@rediffmail.com	1200000	1	High School	Kampstr 590	27-Jan-20	58	Mumbai	Maharashtra	MH	91
+VB-33841	Victoria	Brennan	21-Sep-64	S	victoriabrennan_64@yahoo.com	675000	2	Partial College	8241 San Jose Drive	07-May-19	57	Nagpur	Maharashtra	MH	91
+MM-20926	Magdelene	Morse	21-Jul-94	S	magdelenemorse_94@yahoo.com	4240000	1	Partial High School	8241 Seawind Dr.	08-Jun-19	27	Pimpri	Maharashtra	MH	91
+TM-32227	Tamara	Manning	26-Oct-66	M	tamaramanning_66@yahoo.com	675000	0	Partial High School	1347 Palisade Court	30-Dec-18	55	Pune	Maharashtra	MH	91
+CR-06638	Corey	Roper	24-Nov-69	M	coreyroper_69@rediffmail.com	804400	1	High School	1434 Boxwood Drive	14-Apr-18	52	Pune	Maharashtra	MH	91
+NS-24340	Neola	Schneider	02-May-85	M	neolaschneider_85@yahoo.com	4240000	0	Graduate Degree	4848 Azalea Ave.	19-Sep-21	36	Pune	Maharashtra	MH	91
+EK-11316	Eileen	Kiefer	10-May-55	S	eileenkiefer_55@rediffmail.com	3000000	2	Partial High School	5160 La Vista Circle	01-Mar-19	66	Pune	Maharashtra	MH	91
+MM-22312	Michelle	Moray	18-May-58	S	michellemoray_58@gmail.com	675000	1	High School	5584 Greenview Court	04-Apr-21	63	Pune	Maharashtra	MH	91
+SC-29408	Steven	Cartwright	29-Mar-79	M	stevencartwright_79@gmail.com	3880000	0	High School	6122 Orange St	27-May-19	42	Thane	Maharashtra	MH	91
+IM-14190	Ionia	McGrath	24-Aug-83	M	ioniamcgrath_83@rediffmail.com	804400	2	Partial High School	6214 Piedra Dr.	16-Dec-20	38	Thane	Maharashtra	MH	91
+MY-23883	Maribeth	Yedwab	28-Jul-75	M	maribethyedwab_75@rediffmail.com	3000000	1	Bachelors	3689 Sun Tree Lane	22-Oct-19	46	Ulhasnagar	Maharashtra	MH	91
+LR-19898	Lena	Radford	29-Oct-95	M	lenaradford_95@yahoo.com	804400	1	Bachelors	4814 Ward Street	17-Oct-18	26	Bhubaneswar	Odisha	OR	91
+TB-33581	Ted	Butterfield	06-May-70	M	tedbutterfield_70@yahoo.com	557000	0	Partial College	5457 Woodcrest Dr.	19-Nov-20	51	Brahmapur	Odisha	OR	91
+BK-04542	Berenike	Kampe	03-Jan-69	M	berenikekampe_69@rediffmail.com	1200000	2	Partial College	8002 Crane Court	28-Aug-19	52	Puducherry	Puducherry	PY	91
+TB-33368	Thomas	Brumley	27-Oct-74	M	thomasbrumley_74@yahoo.com	675000	0	Bachelors	6468 Gatewood Court	01-Jul-18	47	Ludhiana	Punjab	PB	91
+JK-15241	Jay	Kimmel	08-Feb-85	S	jaykimmel_85@yahoo.com	3000000	0	Partial College	2537 I St.	15-Oct-20	36	Ajmer	Rajasthan	RJ	91
+MH-21250	Mark	Hamilton	05-May-85	M	markhamilton_85@gmail.com	4240000	2	Partial High School	9052 Montgomery Avenue	06-Jul-18	36	Bikaner	Rajasthan	RJ	91
+GM-13110	Gary	McGarr	06-Dec-92	M	garymcgarr_92@gmail.com	557000	2	Graduate Degree	9775 Redrock Drive	09-Sep-18	29	Bikaner	Rajasthan	RJ	91
+MG-23136	Mitch	Gastineau	14-Feb-58	S	mitchgastineau_58@yahoo.com	1200000	2	Partial High School	3923 Dew Drop Circle	08-Feb-18	63	Fatehpur	Rajasthan	RJ	91
+KB-34425	Ken	Brennan	09-Apr-78	M	kenbrennan_78@gmail.com	557000	0	Bachelors	7045 Creekside Drive	08-Jan-19	43	Ganganagar	Rajasthan	RJ	91
+GK-12977	Grace	Kelly	07-Apr-63	S	gracekelly_63@rediffmail.com	1200000	2	Partial College	9406 Leed Court W.	03-Jul-20	58	Kota	Rajasthan	RJ	91
+VG-34017	Vivek	Gonzalez	27-Dec-65	M	vivekgonzalez_65@rediffmail.com	789000	0	Partial High School	2020 Augustine Dr.	29-Apr-19	56	Ambattur	Tamil Nadu	TN	91
+PF-26559	Peter	Fuller	15-Jul-50	S	peterfuller_50@yahoo.com	3000000	1	Partial College	6957 Corte Poquito	23-Oct-18	71	Chennai	Tamil Nadu	TN	91
+TT-31727	Thomas	Thornton	18-Nov-62	S	thomasthornton_62@gmail.com	4240000	0	High School	Hüttenstr 6114	26-Nov-19	59	Chennai	Tamil Nadu	TN	91
+Dp-08343	Dean	percer	26-Jul-77	S	deanpercer_77@rediffmail.com	804400	0	Partial High School	3005 Banyan Way	12-Jul-19	44	Coimbatore	Tamil Nadu	TN	91
+EK-11411	Eileen	Kiefer	16-Sep-65	S	eileenkiefer_65@rediffmail.com	4240000	0	High School	615 Maria Vega Court	27-May-18	56	Madurai	Tamil Nadu	TN	91
+FM-12450	Fred	McMath	18-Sep-55	M	fredmcmath_55@rediffmail.com	557000	2	High School	8158 Pheasant Court	11-Jun-20	66	Madurai	Tamil Nadu	TN	91
+DK-09645	Dana	Kaydos	15-May-70	M	danakaydos_70@gmail.com	3000000	2	High School	8079 Precipice Drive	21-Mar-19	51	Nagercoil	Tamil Nadu	TN	91
+DC-07413	Dan	Campbell	08-Apr-83	S	dancampbell_83@rediffmail.com	3880000	1	High School	P.O. Box 8070	30-Sep-19	38	Nagercoil	Tamil Nadu	TN	91
+JL-17399	James	Lanier	14-Dec-60	M	jameslanier_60@yahoo.com	4240000	0	High School	3425 Sun Hill Lane	16-Oct-18	61	Tirunelveli	Tamil Nadu	TN	91
+CM-07612	Charles	McCrossin	14-Dec-60	M	charlesmccrossin_60@yahoo.com	789000	2	High School	555 Park Glen Court	04-Apr-20	61	Hyderabad	Telangana	TG	91
+SF-29305	Sandra	Flanagan	29-Dec-53	S	sandraflanagan_53@yahoo.com	1200000	1	Partial High School	710 Longbrook Way	06-Jan-21	68	Hyderabad	Telangana	TG	91
+SW-30734	Steven	Ward	16-Oct-82	S	stevenward_82@yahoo.com	789000	0	Partial College	7355 Macarthur Avenue	21-Jan-21	39	Hyderabad	Telangana	TG	91
+DB-09164	Duane	Benoit	06-Aug-82	M	duanebenoit_82@rediffmail.com	1200000	1	Partial College	7444 Margo Drive	13-Oct-19	39	Hyderabad	Telangana	TG	91
+FC-12677	Fred	Chung	10-Mar-73	S	fredchung_73@rediffmail.com	804400	0	Partial High School	Wertheimer Straße 822	20-Nov-20	48	Hyderabad	Telangana	TG	91
+BT-03392	Brad	Thomas	05-Oct-95	S	bradthomas_95@gmail.com	3880000	2	Partial High School	5407 Oakgrove	11-Apr-19	26	Udaipur	Tripura	TR	91
+EL-11037	Ed	Ludwig	13-Oct-57	M	edludwig_57@rediffmail.com	3880000	0	Graduate Degree	3831 Frigate Ct	20-Apr-20	64	Agra	Uttar Pradesh	UP	91
+CR-05668	Corey	Roper	03-Jun-75	M	coreyroper_75@gmail.com	3880000	1	Partial College	6353 Dan Ysidro Court	16-Mar-20	46	Agra	Uttar Pradesh	UP	91
+CH-06347	Cathy	Hwang	04-Jan-64	S	cathyhwang_64@rediffmail.com	675000	2	Partial High School	6742 Clover Road	08-Jan-18	57	Agra	Uttar Pradesh	UP	91
+TB-32720	Tracy	Blumstein	24-Sep-54	M	tracyblumstein_54@rediffmail.com	1200000	0	Partial College	8830 Versailles Pl	21-Aug-19	67	Agra	Uttar Pradesh	UP	91
+LA-20227	Laura	Armstrong	22-Nov-64	M	lauraarmstrong_64@yahoo.com	3000000	1	Partial College	4861 66th Avenue	30-Jan-20	57	Aligarh	Uttar Pradesh	UP	91
+BO-05010	Bobby	Odegard	31-Oct-92	S	bobbyodegard_92@gmail.com	3000000	1	Partial High School	6375 Freda Drive	29-Jul-18	29	Bareilly	Uttar Pradesh	UP	91
+LS-20516	Lindsay	Shagiari	10-Nov-65	S	lindsayshagiari_65@gmail.com	3880000	2	Partial College	6375 Freda Drive	04-Feb-20	56	Bilaspur	Uttar Pradesh	UP	91
+PO-25314	Philisse	Overcash	08-Jan-72	S	philisseovercash_72@gmail.com	804400	2	Graduate Degree	4101 Buckthorn Court	14-Nov-20	49	Gorakhpur	Uttar Pradesh	UP	91
+DL-09462	Daniel	Lacy	01-Oct-51	S	daniellacy_51@gmail.com	675000	0	High School	4231 Highland Dr.	19-Dec-18	70	Gorakhpur	Uttar Pradesh	UP	91
+RA-26706	Ralph	Arnett	27-Jun-85	M	ralpharnett_85@yahoo.com	675000	2	High School	4882 Darlene Drive	10-May-19	36	Gorakhpur	Uttar Pradesh	UP	91
+JK-15668	Jim	Kriz	23-Oct-92	S	jimkriz_92@yahoo.com	3880000	0	Partial College	748 Whitehall Drive	08-Jan-18	29	Gorakhpur	Uttar Pradesh	UP	91
+CM-07614	Charles	McCrossin	26-Jun-73	M	charlesmccrossin_73@rediffmail.com	1200000	0	High School	1781 Jumping St.	04-Nov-18	48	Kanpur	Uttar Pradesh	UP	91
+BS-04249	Bill	Stewart	23-Sep-80	M	billstewart_80@gmail.com	1200000	2	Partial College	3376 Bank Way	29-Jun-18	41	Kanpur	Uttar Pradesh	UP	91
+SM-30688	Suzanne	McNair	21-Mar-52	M	suzannemcnair_52@rediffmail.com	804400	1	High School	8148 W. Lake Dr.	15-Aug-18	69	Kanpur	Uttar Pradesh	UP	91
+EB-11955	Evan	Bailliet	07-Jul-72	M	evanbailliet_72@gmail.com	3000000	2	Graduate Degree	8327 Roundhouse Place	23-Sep-19	49	Kanpur	Uttar Pradesh	UP	91
+RE-28470	Richard	Eichhorn	24-May-82	S	richardeichhorn_82@yahoo.com	1200000	1	Partial College	9452 Mariposa Ct.	26-May-21	39	Kanpur	Uttar Pradesh	UP	91
+RR-27936	Rick	Reed	24-Jul-85	S	rickreed_85@rediffmail.com	789000	0	Graduate Degree	9532 Clay Rd	21-Jan-20	36	Lucknow	Uttar Pradesh	UP	91
+BN-05023	Bradley	Nguyen	23-Jan-82	M	bradleynguyen_82@gmail.com	3880000	2	Partial College	1250 Sierra Ridge	20-Oct-18	39	Mau	Uttar Pradesh	UP	91
+TB-33610	Ted	Butterfield	18-Apr-66	S	tedbutterfield_66@rediffmail.com	675000	0	Graduate Degree	2696 Estudillo St.	12-Oct-20	55	Meerut	Uttar Pradesh	UP	91
+BD-04846	Brendan	Dodson	22-Oct-84	M	brendandodson_84@rediffmail.com	789000	2	Partial High School	1227 Wesley Court	19-Jun-20	37	Saharanpur	Uttar Pradesh	UP	91
+CD-06728	Carlos	Daly	11-Jan-60	M	carlosdaly_60@yahoo.com	804400	1	Partial High School	2903 Marsh Dr.	03-Mar-18	61	Raipur	Uttarakhand	UP	91
+RH-27112	Rick	Hansen	13-Dec-70	S	rickhansen_70@rediffmail.com	3880000	1	High School	7792 Woodruff Lane	06-Aug-20	51	Srinagar	Uttarakhand	UP	91
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															

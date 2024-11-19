@@ -1,0 +1,431 @@
+Customer Key	Customer_F_Name	Customer_L_Name	City	State	State Short Form	Country_Code_key	Marital Status	MailID	Yearly Income	No of Children	Education	Address Line	Date of First Purchase	Age	Date of Birth
+TC-30314	Tamara	Chand	Banda Aceh	Aceh	BA	62	S	tamarachand_62@gmail.com	789000	0	Graduate Degree	1811 Cashew Lane	28-Nov-19	59	16-Oct-62
+ML-23324	Marina	Lichtenstein	Denpasar	Bali	BA	62	S	marinalichtenstein_86@gmail.com	789000	2	Partial High School	9639 M St.	22-Jul-20	35	05-Oct-86
+RW-27621	Robert	Waldorf	Jakarta	Jakarta	JK	62	M	robertwaldorf_94@rediffmail.com	3000000	2	Partial High School	302 Briarcliff Ct.	21-Oct-20	27	28-Apr-94
+ML-23823	Maris	LaWare	Jakarta	Jakarta	JK	62	M	marislaware_90@rediffmail.com	804400	2	Partial High School	3577 Pembroke Court	19-Oct-21	31	17-Feb-90
+BT-03424	Brad	Thomas	Jakarta	Jakarta	JK	62	M	bradthomas_68@yahoo.com	675000	1	Partial College	376 Amador Valley Blvd.	22-Aug-21	53	28-Nov-68
+PO-34438	Philisse	Overcash	Jakarta	Jakarta	JK	62	S	philisseovercash_87@gmail.com	1200000	0	Partial College	4058 First Ave	14-Dec-18	34	30-Oct-87
+AA-00610	Anna	Andreadi	Jakarta	Jakarta	JK	62	M	annaandreadi_51@yahoo.com	804400	1	Partial High School	4250 Park Tree Ct	24-Sep-19	70	10-Jul-51
+RS-28364	Ricardo	Sperren	Jakarta	Jakarta	JK	62	S	ricardosperren_51@yahoo.com	789000	0	High School	4594 Hill Drive	11-Feb-18	70	25-Mar-51
+PK-26383	Pete	Kriz	Jakarta	Jakarta	JK	62	M	petekriz_87@yahoo.com	3000000	1	Bachelors	5407 Oakgrove	25-Jan-19	34	05-Mar-87
+BS-03162	Brian	Stugart	Jakarta	Jakarta	JK	62	M	brianstugart_79@rediffmail.com	557000	0	Partial College	5464 Muy Verde Cr	09-Aug-19	42	16-May-79
+BT-03356	Brad	Thomas	Jakarta	Jakarta	JK	62	S	bradthomas_78@yahoo.com	4240000	1	High School	5806 West Slough Rd	25-Feb-18	43	15-Aug-78
+CJ-05354	Caroline	Jumper	Jakarta	Jakarta	JK	62	M	carolinejumper_67@rediffmail.com	557000	2	Partial High School	5938 William Way	28-Mar-19	54	27-May-67
+KC-18864	Kelly	Collister	Jakarta	Jakarta	JK	62	M	kellycollister_69@yahoo.com	675000	1	Partial College	6199 Mcelroy	01-Nov-19	52	16-Dec-69
+DB-09412	Deborah	Brumfield	Jakarta	Jakarta	JK	62	S	deborahbrumfield_55@yahoo.com	789000	1	Partial College	6453 Pacific	15-Mar-21	66	18-Jan-55
+SW-28956	Sean	Wendt	Jakarta	Jakarta	JK	62	S	seanwendt_56@rediffmail.com	557000	0	High School	7656 Ramsey Circle	21-Sep-21	65	06-Jun-56
+CJ-05351	Caroline	Jumper	Jakarta	Jakarta	JK	62	M	carolinejumper_53@yahoo.com	3000000	0	Partial High School	8308 Fox Way	22-Dec-19	68	13-Dec-53
+AH-00068	Aaron	Hawkins	Jakarta	Jakarta	JK	62	M	aaronhawkins_64@yahoo.com	804400	1	Partial College	8634 Valley Blvd.	28-Jul-19	57	19-Aug-64
+ED-12106	Emily	Ducich	Jakarta	Jakarta	JK	62	S	emilyducich_94@gmail.com	804400	0	Partial College	8866 Alpha Way	23-Aug-21	27	20-Aug-94
+NB-24869	Nicole	Brennan	Jakarta	Jakarta	JK	62	M	nicolebrennan_62@rediffmail.com	1200000	1	High School	8929 Dayton Court	12-Mar-20	59	02-May-62
+PB-25852	Peter	BŸhler	Jakarta	Jakarta	JK	62	S	peterbÿhler_59@yahoo.com	804400	1	Partial College	9593 Singingwood Court	18-Sep-20	62	17-Dec-59
+ZD-34491	Zuschuss	Donatelli	Jakarta	Jakarta	JK	62	S	zuschussdonatelli_67@rediffmail.com	557000	1	Partial High School	9736 Montana	31-Jan-21	54	20-Apr-67
+SK-27286	Sally	Knutson	Jakarta	Jakarta	JK	62	S	sallyknutson_63@gmail.com	557000	1	Partial College	9897 Bayview Cir	04-Jul-18	58	30-Mar-63
+EK-11297	Eileen	Kiefer	Jambi	Jambi	JA	62	M	eileenkiefer_59@yahoo.com	4240000	2	Bachelors	4666 Sierra Ridge	11-Mar-21	62	19-Jun-59
+HK-14431	Heather	Kirkland	Bandung	Jawa Barat	JB	62	S	heatherkirkland_81@rediffmail.com	1200000	0	Partial College	1680 I St.	16-Oct-18	40	05-Dec-81
+JP-15859	Jeremy	Pistek	Bandung	Jawa Barat	JB	62	M	jeremypistek_78@gmail.com	3000000	0	Partial High School	2489 Teakwood Drive	11-Feb-21	43	02-Feb-78
+LW-19575	Laurel	Workman	Bandung	Jawa Barat	JB	62	S	laurelworkman_67@yahoo.com	557000	1	Partial High School	4668 Chilpancingo Park	18-Nov-18	54	26-Jan-67
+OT-24774	Olvera	Toch	Bandung	Jawa Barat	JB	62	S	olveratoch_89@gmail.com	804400	0	Partial College	6782 First Ave	27-Jan-20	32	21-Dec-89
+TB-33495	Tim	Brockman	Bandung	Jawa Barat	JB	62	M	timbrockman_65@yahoo.com	557000	0	High School	7355 Macarthur Avenue	01-Mar-19	56	11-Oct-65
+SH-26762	Sally	Hughsby	Bekasi	Jawa Barat	JB	62	M	sallyhughsby_56@rediffmail.com	675000	1	Partial High School	1102 Ravenwood	02-Jul-18	65	08-Oct-56
+BT-04913	Bradley	Talbott	Bekasi	Jawa Barat	JB	62	M	bradleytalbott_86@rediffmail.com	675000	2	High School	1601 Crown Court	06-Sep-21	35	29-Nov-86
+ES-11835	Erin	Smith	Bekasi	Jawa Barat	JB	62	M	erinsmith_95@gmail.com	1200000	2	Bachelors	3857 Westchester Pl.	02-Apr-18	26	13-Jan-95
+JO-17078	Jas	O'Carroll	Bekasi	Jawa Barat	JB	62	M	jaso'carroll_72@yahoo.com	789000	0	Graduate Degree	5553 Kahrs Avenue	12-Oct-18	49	31-Aug-72
+BF-03968	Ben	Ferrer	Bekasi	Jawa Barat	JB	62	S	benferrer_93@gmail.com	675000	1	Partial College	611 Hilltop Dr.	13-Jun-21	28	28-Mar-93
+TC-32622	Theresa	Coyne	Bekasi	Jawa Barat	JB	62	S	theresacoyne_83@rediffmail.com	3000000	1	Partial High School	6299 Elmonte Drive	22-Oct-20	38	27-Feb-83
+Dp-08269	Dean	percer	Bekasi	Jawa Barat	JB	62	S	deanpercer_75@rediffmail.com	557000	1	High School	8991 Temple Court	04-Jul-19	46	23-Feb-75
+JL-16790	Janet	Lee	Bekasi	Jawa Barat	JB	62	M	janetlee_59@rediffmail.com	3880000	0	Partial High School	9186 West Boyd Rd.	27-Aug-20	62	13-Feb-59
+DR-08576	Daniel	Raglin	Bogor	Jawa Barat	JB	62	M	danielraglin_77@rediffmail.com	557000	1	High School	1733 Thistle Circle	11-Mar-18	44	02-Feb-77
+FA-11850	Frank	Atkinson	Bogor	Jawa Barat	JB	62	S	frankatkinson_78@yahoo.com	789000	2	High School	2279 Pineview Lane	07-Mar-21	43	24-Dec-78
+TG-32057	Toby	Gnade	Bogor	Jawa Barat	JB	62	M	tobygnade_51@rediffmail.com	804400	1	Partial High School	2678 Village Pl	11-Nov-18	70	30-Nov-51
+DC-07512	Dan	Campbell	Bogor	Jawa Barat	JB	62	S	dancampbell_53@yahoo.com	789000	1	High School	4024 Calhoun Court	25-Apr-20	68	22-May-53
+KH-18214	Ken	Heidel	Cirebon	Jawa Barat	JB	62	M	kenheidel_58@yahoo.com	675000	1	High School	1907 Pinecrest Dr	02-Jul-21	63	19-Feb-58
+IM-14343	Irene	Maddox	Cirebon	Jawa Barat	JB	62	M	irenemaddox_76@gmail.com	1200000	1	Partial High School	5863 Sierra	21-Feb-20	45	25-Dec-76
+BH-05006	Brosina	Hoffman	Depok	Jawa Barat	JB	62	S	brosinahoffman_64@gmail.com	4240000	0	Partial College	1747 Corte Segundo	11-Mar-20	57	09-Jun-64
+SG-29476	Speros	Goranitis	Depok	Jawa Barat	JB	62	S	sperosgoranitis_88@yahoo.com	3000000	2	Bachelors	5217 Cordova Way	01-Oct-21	33	09-Sep-88
+SU-29870	Stephanie	Ulpright	Tangerang	Jawa Barat	JB	62	S	stephanieulpright_69@yahoo.com	557000	2	High School	8521 Knewal Rd	10-Jul-20	52	14-Sep-69
+BT-04041	Brian	Thompson	Tasikmalaya	Jawa Barat	JB	62	S	brianthompson_53@yahoo.com	675000	0	Bachelors	6706 Ridgeview Dr	05-Oct-20	68	16-Nov-53
+MD-23437	Michael	Dominguez	Semarang	Jawa Tengah	JT	62	S	michaeldominguez_59@rediffmail.com	3000000	2	Partial College	2101 Costanza Dr.	26-Dec-18	62	07-Mar-59
+SJ-29832	Sanjit	Jacobs	Semarang	Jawa Tengah	JT	62	S	sanjitjacobs_83@rediffmail.com	675000	1	Partial High School	5205 Sunview Terrace	07-May-21	38	07-Feb-83
+MS-21665	Maribeth	Schnelling	Semarang	Jawa Tengah	JT	62	S	maribethschnelling_61@rediffmail.com	4240000	2	High School	805 Seawind Dr	12-Nov-18	60	24-Apr-61
+SF-28858	Sarah	Foster	Jember	Jawa Timur	JI	62	M	sarahfoster_89@yahoo.com	3000000	1	Graduate Degree	6130 Alderwood Lane	08-Sep-21	32	05-Jul-89
+SF-28861	Sarah	Foster	Kediri	Jawa Timur	JI	62	M	sarahfoster_80@gmail.com	1200000	0	High School	5340 Greenwood Circle	14-Feb-19	41	28-Aug-80
+GB-13459	George	Bell	Malang	Jawa Timur	JI	62	M	georgebell_66@rediffmail.com	1200000	0	High School	6011 Lindenwood Drive	29-Apr-21	55	30-May-66
+FM-12413	Fred	McMath	Surabaya	Jawa Timur	JI	62	S	fredmcmath_86@yahoo.com	3000000	0	Bachelors	1191 Rhoda Way	03-Jan-21	35	12-May-86
+TB-33124	Thomas	Boland	Surabaya	Jawa Timur	JI	62	S	thomasboland_57@rediffmail.com	3000000	0	High School	1946 Valley Crest Drive	28-Apr-18	64	23-May-57
+SC-31440	Stewart	Carmichael	Surabaya	Jawa Timur	JI	62	M	stewartcarmichael_87@gmail.com	4240000	2	Partial High School	2225 Ashford Court	20-Oct-21	34	24-Jul-87
+MC-21488	Matthew	Clasen	Surabaya	Jawa Timur	JI	62	M	matthewclasen_66@gmail.com	557000	0	Partial College	3845 Mt. Dell Drive	07-Mar-20	55	04-Jun-66
+PO-26183	Phillina	Ober	Surabaya	Jawa Timur	JI	62	M	phillinaober_88@yahoo.com	3880000	1	Graduate Degree	4072 South Hampton Road	07-Jun-19	33	20-Jan-88
+LB-19253	Larry	Blacks	Surabaya	Jawa Timur	JI	62	S	larryblacks_80@yahoo.com	789000	2	Partial College	4144 Show Rd.	27-Apr-18	41	24-Nov-80
+SF-31545	Sandra	Flanagan	Surabaya	Jawa Timur	JI	62	M	sandraflanagan_64@yahoo.com	1200000	2	Bachelors	8175 Tri-state Ave.	20-Mar-21	57	09-Oct-64
+JH-15431	Justin	Hirsh	Banjarmasin	Kalimantan Selatan	KS	62	M	justinhirsh_95@yahoo.com	557000	0	High School	3605 Sinclair Ave.	01-Dec-19	26	24-Nov-95
+EM-11649	Elizabeth	Moffitt	Banjarmasin	Kalimantan Selatan	KS	62	S	elizabethmoffitt_68@rediffmail.com	804400	0	Partial College	9444 Camelback Ct.	08-Aug-20	53	17-Feb-68
+MC-23010	Michael	Chen	Balikpapan	Kalimantan Timur	KI	62	S	michaelchen_66@rediffmail.com	789000	2	Partial College	1747 Corte Segundo	28-Nov-19	55	16-Sep-66
+EM-11672	Elizabeth	Moffitt	Balikpapan	Kalimantan Timur	KI	62	S	elizabethmoffitt_57@rediffmail.com	675000	0	Partial High School	4096 San Remo	24-Dec-19	64	13-Dec-57
+SM-28792	Sean	Miller	Balikpapan	Kalimantan Timur	KI	62	M	seanmiller_61@rediffmail.com	675000	1	Graduate Degree	45 Linton Terr.	25-Sep-19	60	31-Dec-61
+BE-04218	Brad	Eason	Balikpapan	Kalimantan Timur	KI	62	S	bradeason_67@yahoo.com	3880000	0	Partial High School	8859 Reliz Valley Road	30-Apr-19	54	17-Oct-67
+JK-16588	Julie	Kriz	Samarinda	Kalimantan Timur	KI	62	S	juliekriz_64@gmail.com	675000	2	Partial High School	2292 Springlake Drive	29-Aug-21	57	11-Jun-64
+LF-20136	Luke	Foster	Samarinda	Kalimantan Timur	KI	62	M	lukefoster_80@yahoo.com	1200000	2	Graduate Degree	24 Roslyn Drive	19-Feb-21	41	10-Feb-80
+NS-24500	Noel	Staavos	Samarinda	Kalimantan Timur	KI	62	M	noelstaavos_72@rediffmail.com	557000	2	Partial College	2482 Buckingham Dr.	16-Jan-19	49	23-Mar-72
+RE-28483	Richard	Eichhorn	Samarinda	Kalimantan Timur	KI	62	M	richardeichhorn_72@rediffmail.com	804400	1	Graduate Degree	3799 Hilton Way	08-Apr-18	49	30-Nov-72
+BT-04100	Brian	Thompson	Samarinda	Kalimantan Timur	KI	62	M	brianthompson_64@yahoo.com	3000000	1	Partial College	3889 Castle Hill Road	03-Mar-20	57	15-Dec-64
+PF-26534	Peter	Fuller	Samarinda	Kalimantan Timur	KI	62	M	peterfuller_81@gmail.com	804400	2	Partial High School	419 Mills Dr.	10-Mar-21	40	26-Aug-81
+LS-20327	Luke	Schmidt	Kupang	Nusa Tenggara Timur	NT	62	S	lukeschmidt_95@rediffmail.com	789000	1	Partial College	4334 Contra Costa Blvd.	23-Jun-21	26	12-Apr-95
+PH-26449	Patricia	Hirasaki	Kendari	Sulawesi Tenggara	SG	62	M	patriciahirasaki_94@yahoo.com	3880000	2	Bachelors	3426 Calhoun Court	27-Oct-20	27	27-Jan-94
+IM-14886	Irene	Maddox	Kendari	Sulawesi Tenggara	SG	62	M	irenemaddox_85@rediffmail.com	4240000	2	High School	8225 Northridge Road	05-Jan-19	36	10-Mar-85
+PF-26532	Peter	Fuller	Kendari	Sulawesi Tenggara	SG	62	S	peterfuller_89@yahoo.com	557000	1	Partial College	9073 Mayda Way	05-Feb-19	32	11-Mar-89
+JG-17387	Jason	Gross	Manado	Sulawesi Utara	SA	62	M	jasongross_84@rediffmail.com	3000000	2	Partial High School	906 Cloudview Dr	26-Jan-18	37	28-Nov-84
+SN-29394	Steve	Nguyen	Padang	Sumatera Barat	SR	62	S	stevenguyen_84@rediffmail.com	4240000	0	High School	9425 Calle Verde Dr.	08-Mar-19	37	02-May-84
+RR-27866	Rick	Reed	Palembang	Sumatera Selatan	SN	62	S	rickreed_59@yahoo.com	1200000	1	Partial High School	313 Park Highlands	15-Mar-18	62	07-Oct-59
+NP-24148	Nora	Paige	Palembang	Sumatera Selatan	SN	62	S	norapaige_62@rediffmail.com	4240000	2	Partial High School	6569 Endriss	16-Jun-19	59	20-Jan-62
+CM-04567	Cari	MacIntyre	Palembang	Sumatera Selatan	SN	62	S	carimacintyre_59@yahoo.com	3000000	0	High School	8384 Golden Rain Road	29-Jul-20	62	18-May-59
+AR-02104	Andy	Reiter	Palembang	Sumatera Selatan	SN	62	M	andyreiter_92@rediffmail.com	3000000	2	Partial High School	9121 Monte Cresta Avenue	04-Mar-19	29	28-Mar-92
+DP-08677	Darren	Powers	Medan	Sumatera Utara	SA	62	M	darrenpowers_78@yahoo.com	3000000	2	High School	1271 Yosemite Circle	05-Apr-20	43	29-May-78
+RA-26730	Ralph	Arnett	Medan	Sumatera Utara	SA	62	S	ralpharnett_79@yahoo.com	3880000	2	Partial High School	593 Chatworth	27-Oct-19	42	23-Oct-79
+TA-31758	Tom	Ashbrook	Medan	Sumatera Utara	SA	62	S	tomashbrook_67@yahoo.com	3880000	1	High School	7985 Center Street	02-Feb-19	54	28-Dec-67
+NC-25017	Nathan	Cano	Medan	Sumatera Utara	SA	62	M	nathancano_68@yahoo.com	3000000	2	Graduate Degree	969 Standing Grove Dr.	19-Oct-20	53	20-Jun-68
+AB-02356	Alan	Barnes	Pematangsiantar	Sumatera Utara	SA	62	S	alanbarnes_65@rediffmail.com	804400	2	Partial High School	7459 D Apling Court	26-Apr-18	56	04-Nov-65
+KF-18338	Karen	Ferguson	Depok	Yogyakarta	YK	62	S	karenferguson_75@gmail.com	1200000	2	High School	1481 Bent Street	04-Jul-20	46	17-Apr-75
+CS-05823	Chuck	Sachs	Depok	Yogyakarta	YK	62	M	chucksachs_53@yahoo.com	557000	1	Partial College	1710 Bouncing Road	08-Mar-21	68	15-Sep-53
+CA-08205	Cynthia	Arntzen	Depok	Yogyakarta	YK	62	M	cynthiaarntzen_91@rediffmail.com	789000	2	Graduate Degree	9750 W. Watson Court	28-Feb-18	30	16-Jan-91
+DJ-10266	Denny	Joy	Yogyakarta	Yogyakarta	YK	62	M	dennyjoy_55@yahoo.com	4240000	2	Partial College	1562 Petarct	27-Aug-20	66	02-Nov-55
+DB-10413	Daniel	Byrd	Yogyakarta	Yogyakarta	YK	62	M	danielbyrd_87@rediffmail.com	804400	0	High School	7523 Cordoba Way	16-Jun-20	34	14-Jun-87
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
