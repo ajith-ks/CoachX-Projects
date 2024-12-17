@@ -17,7 +17,7 @@ This repository contains all the assignments completed during my learning journe
 To get started with the projects in this repository, you can clone this repo to your local machine:
 
 ```bash
-git clone [https://github.com/your-username/repository-name.git](https://github.com/ajith-ks/CoachX-Projects)
+git clone https://github.com/your-username/repository-name.git
 ```
 
 Make sure you have the necessary tools and software installed to run the projects in your local environment.
